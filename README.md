@@ -11,6 +11,6 @@
  - [Instagram](https://instagram.com/samuelbsantosn)
  - [Linkedin](https://www.linkedin.com/in/samuel-brasileiro-9328a116b)
 
-[![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=samuelbrasileiro&count_private=true&show_icons=true&hide=contribs,issues&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=samuelbrasileiro&count_private=true&show_icons=true&hide=contribs,issues&theme=radical)
 
 
