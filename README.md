@@ -9,8 +9,9 @@
 
 ### Find me 😉
  - [Instagram](https://instagram.com/samuelbsantosn)
+ - [Medium](https://medium.com/@samuelbs)
  - [Linkedin](https://www.linkedin.com/in/samuel-brasileiro-9328a116b)
-
+ 
 ![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=samuelbrasileiro&count_private=true&show_icons=true&hide=contribs,issues&theme=radical)
 
 
