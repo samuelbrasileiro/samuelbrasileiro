@@ -5,8 +5,10 @@
 
 - I work as an iOS Full Stack Developer with vast experience in UX/UI ✌️
 - Currently discovering SwiftUI and creating CocoaPods for you all 😚
-- Meet [Shuffle 👀](https://apps.apple.com/br/app/shuffle-with-friends/id1536329239)
 
+### Apps
+- 🎵[Shuffle](https://apps.apple.com/br/app/shuffle-with-friends/id1536329239)
+- 👘[Criatu](https://apps.apple.com/br/app/criatu/id1541342387)
 ### Find me 😉
  - [Instagram](https://instagram.com/samuelbsantosn)
  - [Medium](https://medium.com/@samuelbs)
