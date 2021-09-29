@@ -3,7 +3,7 @@
 -->
 ### Hey, I am Samuel Brasileiro! 🤟
 
-- I work as an iOS Full Stack Developer with vast experience in UX/UI ✌️
+- I work as an iOS Engineer with vast experience in UX/UI ✌️
 - Currently discovering SwiftUI and creating CocoaPods for you all 😚
 
 ### Apps
