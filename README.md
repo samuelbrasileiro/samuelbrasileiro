@@ -14,7 +14,7 @@
 ### Find me 😉
 
 [![Linkedin](https://img.shields.io/badge/Samuel%20Brasileiro-232323?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/samuel-brasileiro-9328a116b)
-[![Instagram](https://img.shields.io/badge/@samuelbsantosn-232323?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://instagram.com/samuelbsantosn)
+[![Instagram](https://img.shields.io/badge/@samuelbsn_-232323?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://instagram.com/samuelbsn_)
 [![Medium](https://img.shields.io/badge/@samuelbs-232323?style=for-the-badge&logo=medium&logoColor=FFFFFF)](https://medium.com/@samuelbs)
 
 ![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=samuelbrasileiro&count_private=true&show_icons=true&hide=contribs,issues&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbrasileiro&layout=compact&theme=radical)
