@@ -17,6 +17,6 @@
 [![Instagram](https://img.shields.io/badge/@samuelbsn_-232323?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://instagram.com/samuelbsn_)
 [![Medium](https://img.shields.io/badge/@samuelbs-232323?style=for-the-badge&logo=medium&logoColor=FFFFFF)](https://medium.com/@samuelbs)
 
-![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=samuelbrasileiro&count_private=true&show_icons=true&hide=contribs,issues&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbrasileiro&layout=compact&theme=radical)
+![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=samuelbrasileiro&count_private=true&show_icons=true&hide=contribs,issues&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbrasileiro&layout=compact&hide=objective-c,html,langs_count=5&theme=radical)
 
 
